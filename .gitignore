@@ -1,0 +1,29 @@
+# Xcode
+*.xccheckout
+*.xcscmblueprint
+*.xcuserstate
+xcuserdata/
+.xcuserdatad/
+xcshareddata/*.hmap
+*.mode1v3
+*.mode2v3
+
+# Swift package
+.build/
+Package.resolved
+
+# macOS
+.DS_Store
+.AppleDouble
+Icon
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Local config
+config.xcconfig
